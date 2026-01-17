@@ -28,7 +28,7 @@
 // startAutoSlide();
 
 let currentIndex = 0;
-const images = ["img/3.jpg", "img/2.jpg", "img/4.jpg"];
+const images = ["img/vertikal/1.jpg", "img/vertikal/2.jpg", "img/vertikal/3.jpg", "img/vertikal/4.jpg", "img/vertikal/5.jpg", "img/vertikal/6.jpg"];
 const heroSection = document.querySelector(".hero");
 
 if (heroSection) {
